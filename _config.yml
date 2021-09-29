@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Giwon's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Giwon Seo"
+description              : "워니 연습장"
 url                      : "https://kiwon0502.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,14 +102,14 @@ analytics:
 # Site Author
 author:
   name             : "Giwon Seo"
-  avatar           : "/assets/images/temp.jpg"
-  bio              : "자 드가자"
+  avatar           : "/assets/images/Author.jpg"
+  bio              : "언젠가 고수가 될 거야"
   location         : "Computer Science, Yonsei"
   email            : "kiwon0502@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "kiwon0502@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
