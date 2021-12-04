@@ -16,8 +16,6 @@ last_modified_at: 2021-12-03
 
 # LG CNS Internship
 
----
-
 # 1. Introduction
 
 - 21년도 하반기 '[신입_학사]The Journey of DX Innovation : IT Leadership Academy ' 지원
