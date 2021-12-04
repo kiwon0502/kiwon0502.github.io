@@ -20,7 +20,7 @@ title                    : "Giwon's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Giwon Seo"
-description              : "워니 연습장"
+description              : "워니가 딛는 개발자로의 한 발자국"
 url                      : "https://kiwon0502.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
