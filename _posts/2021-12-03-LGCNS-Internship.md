@@ -1,3 +1,19 @@
+---
+title:  "LG CNS Internship"
+excerpt: "LG CNS 21년도 하반기 채용 인턴십 후기"
+
+categories:
+  - WEB
+tags:
+  - [WEB, Experience]
+
+toc: true
+toc_sticky: true
+ 
+date: 2021-12-03
+last_modified_at: 2021-12-03
+---
+
 # LG CNS Internship
 
 ---
